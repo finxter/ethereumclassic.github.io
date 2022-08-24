@@ -23,6 +23,10 @@ items:
     title: Getting Started
     description: Here is a non-exhaustive list of some helpful tutorials and walkthroughs to get your starting with Ethereum Classic development.
     items:
+      Solidity Crash Course:
+        __link: https://blog.finxter.com/solidity-crash-course/
+        name: Solidity Crash Course (Video + Blog, Free)
+        description: A free video course with articles and code examples to help you build your own Solidity apps (e.g., for ETC).
       Kotti Testnet Setup Guide:
         __link: https://youtu.be/KnmIlUumMDo
         name: Kotti Testnet Setup Guide
