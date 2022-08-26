@@ -42,7 +42,7 @@ Ether and ETC denote the native cryptocurrency used to pay for tasks such as ins
 
 ### What is gas?
 
-Gas is internal transaction pricing mechanism, is used to mitigate spam and allocate resources on the network. It is a unit used to denote the amount of _resources_ required to do tasks such as installing new smart contracts.
+Gas is an internal transaction pricing mechanism used to mitigate spam and allocate resources on the network. It is a unit used to denote the amount of _resources_ required to do tasks such as installing new smart contracts.
 
 - [Ethereum Gas Explained](https://youtu.be/hQ78FVSv-vs)
 - [Ether vs Gas difference | Programmer explains](https://youtu.be/cZ0rYWJzeow)
@@ -50,7 +50,7 @@ Gas is internal transaction pricing mechanism, is used to mitigate spam and allo
 
 ### How is Ethereum Classic (ETC) related to Ethereum (ETH)?
 
-To understand the relationship it is important to know the history. It is especially important to be familiar with the [DAO attack](http://www.coindesk.com/understanding-dao-hack-journalists) and how the Ethereum Foundation responded to it.
+To understand the relationship, it is important to know the history. You should be familiar with the [DAO attack](http://www.coindesk.com/understanding-dao-hack-journalists) and how the Ethereum Foundation responded to it.
 
 Also, it is important to be familiar with the strong objections described in the [Ethereum Classic Declaration Of Independence](/blog/2016-08-13-declaration-of-independence).
 
@@ -64,6 +64,7 @@ Also, it is important to be familiar with the strong objections described in the
 - [How to Recover Ethereum Sent to an Ethereum Classic Address](https://medium.com/@nesterenkoi565/how-to-recover-ethereum-sent-to-an-ethereum-classic-address-832d56a7d6d9)
 - [Zero to Crypto: Buy ETH](https://www.mewtopia.com/zerotocrypto-buy-eth/)
 - [How to Setup MetaMask with ETC using Ethercluster](https://www.reddit.com/r/EthereumClassic/comments/eqaokd/sendreceive_etc_transactions_on_metamask_with/)
+- [Ethereum Classic Quickstart](https://blog.finxter.com/ethereum-classic-quickstart/)
 
 ### How is Ethereum Classic related to Bitcoin?
 
@@ -87,7 +88,7 @@ On 11 December 2017, the total supply of Ether (ETC) on Ethereum Classic was har
 
 ### What is a smart contract?
 
-Smart contracts are applications that manage assets such as automatic teller machines and the Bitcoin system. Ethereum Classic is able to run many types of smart contracts thanks to it's accounts system and the turing complete Ethereum Virtual Machine.
+Smart contracts are applications that manage assets such as automatic teller machines and the Bitcoin system. Ethereum Classic is able to run many types of smart contracts thanks to its accounts system and the [Turing-complete](https://en.wikipedia.org/wiki/Turing_completeness) Ethereum Virtual Machine.
 
 - [A Beginner's Guide to Smart Contracts](https://youtu.be/RZXJMdAk5zk)
 - [Smart contracts - Simply Explained](https://youtu.be/ZE2HxTmxfrI)
@@ -109,6 +110,7 @@ To create a dapp for Ethereum Classic you must program one in a smart contract p
 
 - [Build Your First Blockchain App Using Ethereum Smart Contracts and Solidity](https://youtu.be/coQ5dg8wM2o)
 - [Build 5 Dapps on the Ethereum Blockchain - Beginner Tutorial](https://youtu.be/8wMKq7HvbKw)
+- [Solidity Crash Course](https://blog.finxter.com/solidity-crash-course/)
 
 ### What smart contract programming languages are there?
 
